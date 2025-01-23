@@ -149,9 +149,44 @@
     -> Permutations of String
 
 12. Dynamic Programming
+     -> Introduction
+     -> Different Approaches
+     -> Optimization with Respect to Recursion
+     -> Climbing Stairs
+     ->Frog Jump
+     -> House Robber
+     ->Grid Unique Paths
+     ->Subset Sum Problem
+     -> Partition Problems
+     -> Knapsack
+     -> Minimum Coins
+     -> Coin change
+     -> Rod Cutting
+     -> Longest common Subsequence
+     -> Minimum insertions
+     ->Edit distance
+     -> Best Time to Buy and Sell Stock
+     
 13. Back Tracking
+     -> Introduction
+     -> Combination Sum 
+     -> Subset Sum
+     -> Print Permuatations
+     -> N Queens
+     -> Sudoku Solver
+     -> Rat in a Maze
 14. Trie
+    ->Implemenation of Trie
+    -> Longest word with common prefix
+    -> Number of Distinct Substrings
+    -> Maximum xor
 15. Heap
+    -> Heap Introduction and Identification
+    ->Kth Smallest Element
+    -> Sort a K Sorted Array
+    -> K closest Numbers
+    -> Frequency Sort
+    -> Sum of elements in k points
  
       
 
